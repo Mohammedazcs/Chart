@@ -1,0 +1,45 @@
+{
+    "lineChart": [
+      { "month": "January", "value": 100 },
+      { "month": "February", "value": 150 },
+      { "month": "March", "value": 200 },
+      { "month": "April", "value": 250 },
+      { "month": "May", "value": 300 },
+      { "month": "June", "value": 350 },
+      { "month": "July", "value": 400 },
+      { "month": "August", "value": 450 },
+      { "month": "September", "value": 400 },
+      { "month": "October", "value": 350 },
+      { "month": "November", "value": 300 },
+      { "month": "December", "value": 250 }
+    ],
+    "barChart": [
+        { "month": "January", "planPercentage": 5, "cumPlanPercentage": 5, "actualPercentage": 4, "cumActualPercentage": 4 },
+        { "month": "February", "planPercentage": 5, "cumPlanPercentage": 10, "actualPercentage": 4, "cumActualPercentage": 8 },
+        { "month": "March", "planPercentage": 7, "cumPlanPercentage": 17, "actualPercentage": 6, "cumActualPercentage": 14 },
+        { "month": "April", "planPercentage": 7, "cumPlanPercentage": 24, "actualPercentage": 12, "cumActualPercentage": 26 },
+        { "month": "May", "planPercentage": 7, "cumPlanPercentage": 31, "actualPercentage": 12, "cumActualPercentage": 38 },
+        { "month": "June", "planPercentage": 10, "cumPlanPercentage": 41, "actualPercentage": 7, "cumActualPercentage": 45 },
+        { "month": "July", "planPercentage": 10, "cumPlanPercentage": 51, "actualPercentage": 8, "cumActualPercentage": 53 },
+        { "month": "August", "planPercentage": 10, "cumPlanPercentage": 61, "actualPercentage": 9, "cumActualPercentage": 62 },
+        { "month": "September", "planPercentage": 10, "cumPlanPercentage": 71, "actualPercentage": 13, "cumActualPercentage": 75 },
+        { "month": "October", "planPercentage": 10, "cumPlanPercentage": 81, "actualPercentage": 10, "cumActualPercentage": 85 },
+        { "month": "November", "planPercentage": 8, "cumPlanPercentage": 89, "actualPercentage": 8, "cumActualPercentage": 93 },
+        { "month": "December", "planPercentage": 11, "cumPlanPercentage": 100, "actualPercentage": 7, "cumActualPercentage": 100 }
+    ],
+    "pieChart": [
+      { "month": "January", "value": 30 },
+      { "month": "February", "value": 40 },
+      { "month": "March", "value": 20 },
+      { "month": "April", "value": 10 },
+      { "month": "May", "value": 35 },
+      { "month": "June", "value": 50 },
+      { "month": "July", "value": 25 },
+      { "month": "August", "value": 15 },
+      { "month": "September", "value": 30 },
+      { "month": "October", "value": 45 },
+      { "month": "November", "value": 25 },
+      { "month": "December", "value": 20 }
+    ]
+  }
+  

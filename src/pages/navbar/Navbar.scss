@@ -1,0 +1,73 @@
+$primary-color: #4a4a4a;
+
+$secondary-color: #f0f0f0;
+
+$hover-color: #d8d8d8;
+
+.navbar {
+  background-color: $secondary-color;
+}
+
+// This is the main Nav Bar
+.navbar-list {
+  display: flex; //it will place the list items horizontally
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+  color: $primary-color;
+  gap: 24px;
+  font-weight: 500;
+  position: sticky;
+}
+
+// style the navbar-link element and this code is applicable to Li elements
+.navbar-link {
+  padding: 10px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    background-color: $hover-color;
+    color: white;
+    cursor: pointer;
+  }
+}
+
+.navbar-link1 {
+  padding: 10px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    background-color: $hover-color;
+    color: white;
+    cursor: pointer;
+  }
+  position: relative;
+}
+
+// This is the main Sub Nav Bar
+.submenu-list {
+  position: absolute;
+  top: 60px; 
+  width: 150px; 
+  height: auto;
+  border-radius: 10px;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  color: $primary-color;
+  gap: 10px;
+}
+
+// style the submenu-link element
+.submenu-link {
+  color: $primary-color;
+  padding: 10px;
+  margin: 0;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    background-color: $hover-color;
+    color: white;
+    cursor: pointer;
+  }
+}

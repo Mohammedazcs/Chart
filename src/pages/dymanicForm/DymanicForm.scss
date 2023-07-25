@@ -1,0 +1,23 @@
+.parent-container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 800px;
+    margin: 20px auto 0;
+    background-color: #f7f7f7;
+    border: #ddd;
+    padding: 20px;
+
+    button{
+        padding: 10px 16px;
+        background: #f0c14b;
+        border: none;
+        border-radius: 5px;
+        color: #131921;
+        cursor: pointer;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+
+    }
+
+}

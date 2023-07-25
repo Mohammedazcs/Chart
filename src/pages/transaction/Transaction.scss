@@ -1,0 +1,36 @@
+.main {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    gap: 10px;
+    grid-template-areas:
+      "menu header header"
+      "menu swiper user"
+      "menu offers user";
+  }
+  
+  .menu {
+    grid-area: menu;
+    background-color: #ff0000; /* Red */
+    //height: 580px;
+  }
+  
+  .header {
+    grid-area: header;
+    background-color: #00ff00; /* Green */
+  }
+  
+  .swiper {
+    grid-area: swiper;
+    background-color: #0000ff; /* Blue */
+  }
+  
+  .user {
+    grid-area: user;
+    background-color: #ffff00; /* Yellow */
+  }
+  
+  .offers {
+    grid-area: offers;
+    background-color: #ff00ff; /* Purple */
+  }
+  

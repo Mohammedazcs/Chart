@@ -1,0 +1,56 @@
+/* sizeFormStyles.css */
+
+/* Styles for the form container */
+.form-container {
+    display: flex; /* Use flexbox */
+    flex-direction: row; /* Align items in a row */
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Styles for the size buttons container */
+  .size-buttons-container {
+    flex: 1; /* Use flex 1 to distribute equal width */
+    display: flex; /* Use flexbox */
+    flex-direction: row; /* Align items in a row */
+    justify-content: flex-start; /* Align buttons to the left */
+    align-items: center; /* Vertically center the buttons */
+    margin-top: 10px;
+  }
+  
+  /* Styles for the size buttons */
+  .size-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 12px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .size-button:last-child {
+    margin-right: 0; /* Remove right margin for the last button */
+  }
+  
+  .size-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Styles for the selected size container */
+  .selected-size-container {
+    flex: 1; 
+
+ }
+  
+
+  .selected-size-details {
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+ 
+  }
+  

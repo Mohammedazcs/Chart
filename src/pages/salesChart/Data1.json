@@ -1,0 +1,125 @@
+{
+    "data": [
+      {
+        "name": "January",
+        "region": "North",
+        "supervisor": "John",
+        "salesman": "Mike",
+        "month": "January",
+        "year": 2023,
+        "product": "Product A",
+        "sales": 500
+      },
+      {
+        "name": "February",
+        "region": "South",
+        "supervisor": "David",
+        "salesman": "Peter",
+        "month": "February",
+        "year": 2023,
+        "product": "Product B",
+        "sales": 700
+      },
+      {
+        "name": "March",
+        "region": "East",
+        "supervisor": "Sarah",
+        "salesman": "Chris",
+        "month": "March",
+        "year": 2023,
+        "product": "Product C",
+        "sales": 900
+      },
+      {
+        "name": "April",
+        "region": "West",
+        "supervisor": "Emily",
+        "salesman": "Alex",
+        "month": "April",
+        "year": 2023,
+        "product": "Product D",
+        "sales": 1200
+      },
+      {
+        "name": "May",
+        "region": "North",
+        "supervisor": "John",
+        "salesman": "Mike",
+        "month": "May",
+        "year": 2023,
+        "product": "Product A",
+        "sales": 800
+      },
+      {
+        "name": "June",
+        "region": "South",
+        "supervisor": "David",
+        "salesman": "Peter",
+        "month": "June",
+        "year": 2023,
+        "product": "Product B",
+        "sales": 1100
+      },
+      {
+        "name": "July",
+        "region": "South",
+        "supervisor": "David",
+        "salesman": "Peter",
+        "month": "July",
+        "year": 2023,
+        "product": "Product B",
+        "sales": 500
+      },
+      {
+        "name": "August",
+        "region": "South",
+        "supervisor": "David",
+        "salesman": "Peter",
+        "month": "August",
+        "year": 2023,
+        "product": "Product B",
+        "sales": 700
+      },
+      {
+        "name": "September",
+        "region": "South",
+        "supervisor": "David",
+        "salesman": "Peter",
+        "month": "September",
+        "year": 2023,
+        "product": "Product B",
+        "sales": 900
+      },
+      {
+        "name": "October",
+        "region": "North",
+        "supervisor": "David",
+        "salesman": "Peter",
+        "month": "June",
+        "year": 2023,
+        "product": "Product B",
+        "sales": 1200
+      },
+      {
+        "name": "November",
+        "region": "South",
+        "supervisor": "David",
+        "salesman": "Peter",
+        "month": "November",
+        "year": 2023,
+        "product": "Product B",
+        "sales": 800
+      },
+      {
+        "name": "December",
+        "region": "South",
+        "supervisor": "David",
+        "salesman": "Peter",
+        "month": "December",
+        "year": 2023,
+        "product": "Product B",
+        "sales": 1100
+      }
+    ]
+  }
+  

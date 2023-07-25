@@ -1,0 +1,29 @@
+.datagrid {
+  border: 1px solid #ccc;
+  font-size: 14px;
+  height: 400px;
+
+  .rdg-header-row {
+    background-color: #fafafa;
+    font-weight: bold;
+  }
+
+  .rdg-cell {
+    border-right: 1px solid #ccc;
+    padding: 5px;
+  }
+
+  .rdg-cell:last-child {
+    border-right: none;
+  }
+
+  .rdg-row {
+    &:nth-child(even) {
+      background-color: #f5f5f5;
+    }
+
+    &:hover {
+      background-color: #ddd;
+    }
+  }
+}
